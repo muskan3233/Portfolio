@@ -22,7 +22,7 @@ export default function Contact() {
           <h1 className="text-accent font-semibold text-center text-4xl capitalize">
             Contact me
           </h1>
-          <p className="text-center font-light text-sm xs:text-base">Welcome to my portfolio! I am passionate about crafting digital experiences. From sleek designs to robust functionalities, I strive for excellence. Let collaborate on your next project! Contact me on rehmat.shah1538@gmail.com and phone number: +91-8982470747 to discuss how I can bring your ideas to life. Looking forward to hearing from you soon.
+          <p className="text-center font-light text-sm xs:text-base">Welcome to my portfolio! I am passionate about crafting digital experiences. From sleek designs to robust functionalities, I strive for excellence. Let collaborate on your next project! Contact me on ********* and phone number: ********* to discuss how I can bring your ideas to life. Looking forward to hearing from you soon.
           </p>
         </div>
         <Form />
